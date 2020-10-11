@@ -8,7 +8,7 @@
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - ⚡ Fun fact: -->
-- 👯 I’m looking to collaborate on :
+- 👯 I'm looking **for contributions** for following projects:
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
 |-------------|-------------------|---|---|
