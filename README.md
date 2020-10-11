@@ -17,8 +17,7 @@
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 - 📫 How to reach me: 
-        
-        - Twitter: https://twitter.com/nayyyhaa
-        - Mail: nehaguptang.ng@gmail.com
+    - Twitter: https://twitter.com/nayyyhaa
+    - Mail: nehaguptang.ng@gmail.com
 - 😄 Pronouns: She/Her
 
