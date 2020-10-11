@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, I'm Neha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 **Glad to see you here!** :star_struck:
 <!--
 **nayyyhaa/nayyyhaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
