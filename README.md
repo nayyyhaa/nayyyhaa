@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm <a href="https://nehagupta.netlify.app/">Neha</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+<h1 align="center">Hey, I'm <a href="https://nehagupta.netlify.app/">Neha</a> 👋</h1>
 
 <!--
 **nayyyhaa/nayyyhaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
