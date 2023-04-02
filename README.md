@@ -55,6 +55,7 @@
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nayyyhaa&theme=dracula" alt="nayyyhaa" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayyyhaa&theme=dracula&layout=compact" alt="nayyyhaa" />
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nayyyhaa&style=for-the-badge" alt="nayyyhaa" /> </p>
 
 
 
