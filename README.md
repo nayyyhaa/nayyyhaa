@@ -1,38 +1,65 @@
-<h1 align="center">Hey, I'm <a href="https://nehagupta.netlify.app/">Neha</a> 👋</h1>
-
-<!--
-**nayyyhaa/nayyyhaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-<h3 align="center">I'm a passionate Full Stack Developer from Delhi, India</h3>
-
-<p align="left"> <a href="https://twitter.com/nayyyhaa" target="blank"><img src="https://img.shields.io/twitter/follow/nayyyhaa?logo=twitter&style=for-the-badge" alt="nayyyhaa" /></a> </p>
-
-<h3 align="left">Languages and tools that I use:</h3>
-
-**FRONTEND**:  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="30" height="30"/> <a href="https://redux.js.org" target="_blank"> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="30" height="30"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a>    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/> </a> </a><a href="https://bulma.io/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="30" height="30"/> </a><a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/> </a>
-<a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="30" height="30"/> </a><a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="30" height="30"/> </a>  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a>
-
-**BACKEND**:  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> </a><a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/> </a> 
-
-**DATABASE**: <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a><a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a>
-
-**PROGRAMMING LANGUAGES**: <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> </a> 
-
-**TESTING**:  <a href="https://jasmine.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="30" height="30"/> </a>   <a href="https://karma-runner.github.io/latest/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="30" height="30"/> </a> 
-
-
-- 👯 Wanna contribute for **HACKTOBERFEST**? Checkout these begineer friendly repositories to get you started:
-
-|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
-|-------------|-------------------|---|---|
-| [**movies-and-shows-api**](https://github.com/nayyyhaa/movies-and-shows-api) | [![GitHub issues](https://img.shields.io/github/issues/nayyyhaa/movies-and-shows-api?color=green&logo=github&style=flat)](https://github.com/nayyyhaa/movies-and-shows-api/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/nayyyhaa/movies-and-shows-api?style=flat&logo=github)](https://github.com/nayyyhaa/movies-and-shows-api/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/nayyyhaa/movies-and-shows-api?style=flat&color=critical&logo=github)](https://github.com/nayyyhaa/movies-and-shows-api/pulls?q=is%3Apr+is%3Aclosed)  |
-| [**JAVA-PROGRAMMING**](https://github.com/nayyyhaa/JAVA-PROGRAMMING) | [![GitHub issues](https://img.shields.io/github/issues/nayyyhaa/JAVA-PROGRAMMING?color=green&logo=github&style=flat)](https://github.com/nayyyhaa/JAVA-PROGRAMMING/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/nayyyhaa/JAVA-PROGRAMMING?style=flat&logo=github)](https://github.com/nayyyhaa/JAVA-PROGRAMMING/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/nayyyhaa/JAVA-PROGRAMMING?style=flat&color=critical&logo=github)](https://github.com/nayyyhaa/JAVA-PROGRAMMING/pulls?q=is%3Apr+is%3Aclosed)  |
-| [**C-Codes**](https://github.com/nayyyhaa/C-Codes) | [![GitHub issues](https://img.shields.io/github/issues/nayyyhaa/C-Codes?color=green&logo=github&style=flat)](https://github.com/nayyyhaa/C-Codes/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/nayyyhaa/C-Codes?style=flat&logo=github)](https://github.com/nayyyhaa/C-Codes/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/nayyyhaa/C-Codes?style=flat&color=critical&logo=github)](https://github.com/nayyyhaa/C-Codes/pulls?q=is%3Apr+is%3Aclosed)  |
-
-## Connect with me:
-<!-- <a href="https://codepen.io/nayyyhaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nayyyhaa" height="30" width="30" /></a> -->
-<a href="https://dev.to/nayyyhaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="nayyyhaa" height="30" width="30" /></a>
-<a href="https://twitter.com/nayyyhaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nayyyhaa" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/nayyyhaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nayyyhaa" height="30" width="30" /></a>
-<a href="https://instagram.com/nehacode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nehacode" height="30" width="30" /></a>
+<p align="center">
+  <img align="center" src="https://em-content.zobj.net/thumbs/320/apple/354/woman-technologist_1f469-200d-1f4bb.png" alt="Neha" />
+  <h1 align="center">✨ Heylo, I'm <a href="https://nehagupta.netlify.app/">Neha</a> ✨</h1>
+  <h4 align="center">I'm a Software Developer from Delhi, India</h4>
 </p>
+
+</br>
+
+## 💻 Languages and tools that I use:
+
+**Frontend**: 
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" /> 
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS" /> 
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="AngularJS" />
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="vite" />
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="Webpack" />
+  <img src="https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white" alt="antdesign" /> 
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" /> 
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
+  <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
+  <img src="https://img.shields.io/badge/HTML5-ED9526?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+</p>
+
+**Backend**: 
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" /> 
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express" />
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" /> 
+  <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
+</p>
+
+**Database & Hostings**:
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon_AWS" /> 
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" /> 
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
+
+**Programming Languages**: 
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /> 
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" /> 
+</p>
+
+## 📟 GitHub Stats:
+
+<p>
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nayyyhaa&theme=dracula" alt="nayyyhaa" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayyyhaa&theme=dracula&layout=compact" alt="nayyyhaa" />
+</p>
+
+
+
+## 🌐 Connect with me:
+<a href="mailto:nehaguptang.ng@gmail.com"><img src="https://img.shields.io/badge/Gmail-DA100B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> 
+<a href="https://twitter.com/nayyyhaa"><img src="https://img.shields.io/badge/Twitter-1672EC?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"  align="left"/></a>
+<a href="https://dev.to/nayyyhaa"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Hashnode" align="left" /> </a>
+<a href="https://linkedin.com/in/nayyyhaa"><img src="https://img.shields.io/badge/LinkedIn-223189?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="left"/></a>
