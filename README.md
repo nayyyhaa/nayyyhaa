@@ -1,6 +1,6 @@
 <p align="center">
   <img align="center" src="https://em-content.zobj.net/thumbs/320/apple/354/woman-technologist_1f469-200d-1f4bb.png" alt="Neha" />
-  <h1 align="center">💫 Heylo, I'm <a href="https://nehagupta.netlify.app/">Neha</a> 💫✨</h1>
+  <h1 align="center">Heylo, I'm <a href="https://nehagupta.netlify.app/">Neha</a> 💫</h1>
   <p align="center"><strong>I'm a Software Developer from Delhi, India.</strong></p>
 </p>
 
