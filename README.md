@@ -56,10 +56,10 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/nayyyhaa/nayyyhaa"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=nayyyhaa&hide_border=true&show_icons=true&count_private=true&theme=dracula" alt="nayyyhaa GitHub Stats" /> </a>
+      <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=nayyyhaa&hide_border=true&show_icons=true&count_private=true&theme=dracula" alt="nayyyhaa GitHub Stats" />
     </td>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=nayyyhaa&hide_border=true&langs_count=8&layout=compact&count_private=true&theme=dracula" alt="Top Languages" /> </a>
+      <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=nayyyhaa&hide_border=true&langs_count=8&layout=compact&count_private=true&theme=dracula" alt="Top Languages" />
     </td>
   </tr>
 </table>
