@@ -51,11 +51,19 @@
 
 ## 📟 GitHub Stats:
 
-<p>
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nayyyhaa&theme=dracula" alt="nayyyhaa" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayyyhaa&theme=dracula&layout=compact" alt="nayyyhaa" />
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nayyyhaa&style=for-the-badge" alt="nayyyhaa" /> </p>
+<img src="https://komarev.com/ghpvc/?username=nayyyhaa&style=for-the-badge" alt="nayyyhaa" />
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/nayyyhaa/nayyyhaa"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=nayyyhaa&hide_border=true&show_icons=true&count_private=true&theme=dracula" alt="nayyyhaa GitHub Stats" /> </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=nayyyhaa&hide_border=true&langs_count=8&layout=compact&count_private=true&theme=dracula" alt="Top Languages" /> </a>
+    </td>
+  </tr>
+</table>
+
 
 
 
