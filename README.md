@@ -56,10 +56,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=nayyyhaa&hide_border=true&show_icons=true&count_private=true&theme=dracula" alt="nayyyhaa GitHub Stats" />
+      <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=nayyyhaa&hide_border=true&show_icons=true&count_private=true" alt="nayyyhaa GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=nayyyhaa&hide_border=true&langs_count=8&layout=compact&count_private=true&theme=dracula" alt="Top Languages" />
+      <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=nayyyhaa&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
